@@ -1,5 +1,5 @@
 # Hi there, I'm Razvan! 👋
-
+---
 Welcome to my GitHub profile! I'm passionate about building solutions that make life easier, learning new technologies, and collaborating with people who share the same enthusiasm for software development.
 ---
 
