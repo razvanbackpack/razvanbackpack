@@ -17,7 +17,3 @@ and <small>I like coding stuff</small>.
 - Personal Website: [RAZVANCODE.NET](https://razvancode.net)
 
 ---
-
-## 💬 Misc facts
-- 🎮 I love playing games.
-- 📚 As a side effect of loving to play games, I enjoy looking into old games and setting up demo servers just to try them out.
