@@ -1,5 +1,4 @@
-### Hi there, I'm Razvan, 
-and <small>I like coding stuff</small>.
+Hi there, I'm Razvan, and I like coding stuff.
 
 ---
 
